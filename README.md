@@ -1,4 +1,4 @@
 # Demo-repository
 My first repository 
 <br>
-Author - Sharayu Jadhav
+Author - Sharayu Jadhav(Student)
